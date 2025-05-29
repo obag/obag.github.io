@@ -1,0 +1,16 @@
+---
+title: A Wizard of Earthsea by Ursula K. Le Guin
+author: obag
+date: 2025-05-27
+tags:
+- book-review
+featured: true
+draft: false 
+---
+
+<a href="https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea" style="float: left; padding-right: 20px"><img border="0" alt="A Wizard of Earthsea (Earthsea Cycle, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353424536l/13642._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea">A Wizard of Earthsea</a> by <a href="https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin">Ursula K. Le Guin</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/7594509865">5 of 5 stars</a><br /><br />
+I read this book for the first time when I was quite young. Mum had bought The Earthsea Quartet and told me I absolutely had to read it. I was not so keen, she had recently made me read some really boring historical fiction, and this looked to be a slow, thoughtful book about a wizard. Who even wants to read about wizards? They don’t fight in battles, they just sit around pondering. How is that going to make a good book?<br /><br />We were going on holiday, and I ended up taking the book with me, to humour my mother, and also because I had read all my other books. I had no intention of reading it, anyway. Obviously, the weather went ape shit, and the whole family aside from me got the flu. I found myself in a cold little cabin, with nothing to do but listen to my family complain, and read a boring book in my sleeping bag.<br /><br />I read all four books, cover to cover, in a weekend. I was so disappointed there were only four. I remember the sheepish realisation that those were the best books I had ever read. I was obsessed with sword fighting and knights and battles, but I had been absolutely blindsided by a philosophical tale of a teenage wizard mastering his own mind.<br /><br />A Wizard of Earthsea was written for teenagers, but does this lovely thing where it trusts them to read and understand the book themselves. It isn’t a difficult read, by any means, but neither is it oversimplified. I think I got more out of it when I was a pre teen, but it held up excellently as I revisited it in my 20s.<br /><br />In Le Guins own words:<br /><br />“Despite what some adults seem to think, teenagers are fully human.”<br /><br />The tale of Ged told in this first book is a classic. It is the tale of a young man letting his ego take hold and unleashing evil into the world. Only by accepting his imperfections is he able to overcome the evil, and continue down the path to wisdom.<br /><br />The world of Earthsea is a perfect fantasy setting. I can’t get enough of it. It is so grounded, it has your standard fantasy tropes of magic, dragons, etc., but at the same time it is a humble world occupied by fishermen and huts. It doesn’t need much explaining, and doesn’t try to be anything it doesn’t need to be.<br /><br />I was hoping to capture the impact this book had on me in a short review but I am not a capable enough writer to do that. All I can say is that I am going to make sure that my kids give this book a read, grudging or otherwise.
+<br/><br/>
+<a href="https://www.goodreads.com/review/list/189775425-obag">View all my reviews</a>
+

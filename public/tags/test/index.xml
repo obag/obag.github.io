@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on obag</title>
+    <link>http://localhost:1313/tags/test/</link>
+    <description>Recent content in Test on obag</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>&lt;h1 id=&#34;title&#34;&gt;title&lt;/h1&gt;&#xA;&lt;p&gt;fasjkhfakjsdlhf ahjklfshafklj dfhakldjfhda kmnc;oahio ;khjfsak;hyviupoea hnk;jasdh ;ashf ;asa words and stuff wow i have been doing this for ages and got shitall omg ugh&lt;/p&gt;&#xA;&lt;h2 id=&#34;sub-title&#34;&gt;sub title&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;some code!&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;bold&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;quotes are cool&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>
