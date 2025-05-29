@@ -1,4 +1,4 @@
-baseURL = 'http://obag.blog'
+baseURL = 'https://obag.github.io'
 languageCode = 'en-us'
 title = 'obag'
 theme = 'rusty-typewriter'
