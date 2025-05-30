@@ -9,6 +9,6 @@ I created this blog to get over my fear of publishing my work. Some of what I wr
 
 If I can bring myself to post bad writing online under an alias, maybe I'll get to the point where I can publish my good writing under my real name.
 
-If anything I have written is worthy of conversation to you, please contact me at owainscribbles@proton.me.
+If anything I have written is worthy of conversation to you, please contact me at obag.blog@pm.me.
 
 Thanks for your time, I appreciate it.
