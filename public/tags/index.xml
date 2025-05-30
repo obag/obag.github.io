@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on obag</title>
-    <link>https://obag.blog/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on obag</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://obag.blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Short-Story</title>
+      <link>http://localhost:1313/tags/short-story/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/short-story/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Book-Review</title>
-      <link>https://obag.blog/tags/book-review/</link>
+      <link>http://localhost:1313/tags/book-review/</link>
       <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://obag.blog/tags/book-review/</guid>
+      <guid>http://localhost:1313/tags/book-review/</guid>
       <description></description>
     </item>
   </channel>

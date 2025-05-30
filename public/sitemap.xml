@@ -2,32 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://obag.blog/about/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/short-story/</loc>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/new-blog-post/</loc>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/the-strange-case-of-the-upside-down-frog/</loc>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://obag.blog/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://obag.blog/search/</loc>
-    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://obag.blog/posts/a-wizard-of-earthsea/</loc>
+    <loc>http://localhost:1313/posts/a-wizard-of-earthsea/</loc>
     <lastmod>2025-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://obag.blog/tags/book-review/</loc>
+    <loc>http://localhost:1313/tags/book-review/</loc>
     <lastmod>2025-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://obag.blog/posts/</loc>
-    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/nicotine-explained/</loc>
+    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://obag.blog/tags/</loc>
-    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://obag.blog/posts/shadow-and-claw/</loc>
+    <loc>http://localhost:1313/posts/shadow-and-claw/</loc>
     <lastmod>2025-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://obag.blog/series/</loc>
+    <loc>http://localhost:1313/posts/kitchen-confidential/</loc>
+    <lastmod>2025-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://obag.blog/topics/</loc>
+    <loc>http://localhost:1313/series/</loc>
+  </url><url>
+    <loc>http://localhost:1313/topics/</loc>
   </url>
 </urlset>
