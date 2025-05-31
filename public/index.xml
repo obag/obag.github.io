@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>obag</title>
-    <link>http://localhost:1313/</link>
+    <link>https://obag.blog/</link>
     <description>Recent content on obag</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>obag.blog@pm.me (obag)</managingEditor>
     <webMaster>obag.blog@pm.me (obag)</webMaster>
     <lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://obag.blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RSS Feed</title>
-      <link>http://localhost:1313/rss/</link>
+      <link>https://obag.blog/rss/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><author>obag.blog@pm.me (obag)</author>
-      <guid>http://localhost:1313/rss/</guid>
+      <guid>https://obag.blog/rss/</guid>
       <description>&lt;p&gt;To follow this blog using you RSS reader of choice, use the url below:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;https://obag.blog/posts/index.xml&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Cheers, obag.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://obag.blog/about/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate><author>obag.blog@pm.me (obag)</author>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://obag.blog/about/</guid>
       <description>&lt;p&gt;Some old friends of mine once gave me the nickname &amp;ldquo;O-Bag&amp;rdquo;. I thought it was a terrible nickname and cringed every time I heard it.&lt;/p&gt;&#xA;&lt;p&gt;I have written a lot of terrible work throughout my life that makes me cringe every time I read it. I recently started to write again, and I figured that adopting the alias &amp;ldquo;obag&amp;rdquo; was fitting.&lt;/p&gt;&#xA;&lt;p&gt;This blog is a space for me to post my writing, good or bad, so that I can get over my fear of having other people read my work. I figure that if I can publish my bad writing that makes me cringe under an alias, maybe one day I&amp;rsquo;ll have the guts to publish my good writing that makes me proud under my real name.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Search</title>
-      <link>http://localhost:1313/search/</link>
+      <link>https://obag.blog/search/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate><author>obag.blog@pm.me (obag)</author>
-      <guid>http://localhost:1313/search/</guid>
+      <guid>https://obag.blog/search/</guid>
       <description>&lt;h1 id=&#34;search&#34;&gt;Search&lt;/h1&gt;&#xA;&lt;p&gt;Search for a post:&#xA;&lt;p class=&#34;hidden&#34;&gt;It&amp;#39;s necessary to enable Javascript&lt;/p&gt;&#xA;&lt;p class=&#34;search-loading hidden&#34;&gt;Loading...&lt;/p&gt;&#xA;&#xA;&lt;form id=&#34;search-form&#34; class=&#34;search-form&#34; action=&#34;#&#34; method=&#34;post&#34; accept-charset=&#34;UTF-8&#34; role=&#34;search&#34;&gt;&#xA;  &lt;div class=&#34;search-bar&#34;&gt;&#xA;    &lt;label for=&#34;query&#34; class=&#34;hidden&#34;&gt;&lt;/label&gt;&#xA;    &lt;input id=&#34;query&#34; class=&#34;search-text&#34; type=&#34;text&#34; placeholder=&#34;Search...&#34;/&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/form&gt;&#xA;&#xA;&lt;div class=&#34;search-results&#34;&gt;&lt;/div&gt;&#xA;&#xA;&lt;template&gt;&#xA;  &lt;article class=&#34;search-result list-view&#34;&gt;&#xA;    &lt;header&gt;&#xA;      &lt;h2 class=&#34;title&#34;&gt;&lt;a href=&#34;#&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;      &lt;div class=&#34;submitted&#34;&gt;&#xA;        &lt;time class=&#34;created-date&#34;&gt;&lt;/time&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/header&gt;&#xA;    &lt;p class=&#34;content&#34;&gt;&lt;/p&gt;&#xA;  &lt;/article&gt;&#xA;&lt;/template&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Wizard of Earthsea by Ursula K. Le Guin</title>
-      <link>http://localhost:1313/posts/a-wizard-of-earthsea/</link>
+      <link>https://obag.blog/posts/a-wizard-of-earthsea/</link>
       <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate><author>obag.blog@pm.me (obag)</author>
-      <guid>http://localhost:1313/posts/a-wizard-of-earthsea/</guid>
+      <guid>https://obag.blog/posts/a-wizard-of-earthsea/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea&#34; style=&#34;float: left; padding-right: 20px&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;A Wizard of Earthsea (Earthsea Cycle, #1)&#34; src=&#34;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353424536l/13642._SX98_.jpg&#34; /&gt;&lt;/a&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea&#34;&gt;A Wizard of Earthsea&lt;/a&gt; by &lt;a href=&#34;https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin&#34;&gt;Ursula K. Le Guin&lt;/a&gt;&lt;br/&gt;&#xA;My rating: &lt;a href=&#34;https://www.goodreads.com/review/show/7594509865&#34;&gt;5 of 5 stars&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&#xA;I read this book for the first time when I was quite young. Mum had bought The Earthsea Quartet and told me I absolutely had to read it. I was not so keen, she had recently made me read some really boring historical fiction, and this looked to be a slow, thoughtful book about a wizard. Who even wants to read about wizards? They don’t fight in battles, they just sit around pondering. How is that going to make a good book?&lt;br /&gt;&lt;br /&gt;We were going on holiday, and I ended up taking the book with me, to humour my mother, and also because I had read all my other books. I had no intention of reading it, anyway. Obviously, the weather went ape shit, and the whole family aside from me got the flu. I found myself in a cold little cabin, with nothing to do but listen to my family complain, and read a boring book in my sleeping bag.&lt;br /&gt;&lt;br /&gt;I read all four books, cover to cover, in a weekend. I was so disappointed there were only four. I remember the sheepish realisation that those were the best books I had ever read. I was obsessed with sword fighting and knights and battles, but I had been absolutely blindsided by a philosophical tale of a teenage wizard mastering his own mind.&lt;br /&gt;&lt;br /&gt;A Wizard of Earthsea was written for teenagers, but does this lovely thing where it trusts them to read and understand the book themselves. It isn’t a difficult read, by any means, but neither is it oversimplified. I think I got more out of it when I was a pre teen, but it held up excellently as I revisited it in my 20s.&lt;br /&gt;&lt;br /&gt;In Le Guins own words:&lt;br /&gt;&lt;br /&gt;“Despite what some adults seem to think, teenagers are fully human.”&lt;br /&gt;&lt;br /&gt;The tale of Ged told in this first book is a classic. It is the tale of a young man letting his ego take hold and unleashing evil into the world. Only by accepting his imperfections is he able to overcome the evil, and continue down the path to wisdom.&lt;br /&gt;&lt;br /&gt;The world of Earthsea is a perfect fantasy setting. I can’t get enough of it. It is so grounded, it has your standard fantasy tropes of magic, dragons, etc., but at the same time it is a humble world occupied by fishermen and huts. It doesn’t need much explaining, and doesn’t try to be anything it doesn’t need to be.&lt;br /&gt;&lt;br /&gt;I was hoping to capture the impact this book had on me in a short review but I am not a capable enough writer to do that. All I can say is that I am going to make sure that my kids give this book a read, grudging or otherwise.&#xA;&lt;br/&gt;&lt;br/&gt;&#xA;&lt;a href=&#34;https://www.goodreads.com/review/list/189775425-obag&#34;&gt;View all my reviews&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Shadow and Claw by Gene Wolfe</title>
-      <link>http://localhost:1313/posts/shadow-and-claw/</link>
+      <link>https://obag.blog/posts/shadow-and-claw/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate><author>obag.blog@pm.me (obag)</author>
-      <guid>http://localhost:1313/posts/shadow-and-claw/</guid>
+      <guid>https://obag.blog/posts/shadow-and-claw/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/40992.Shadow_Claw&#34; style=&#34;float: left; padding-right: 20px&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Shadow &amp; Claw (The Book of the New Sun, #1-2)&#34; src=&#34;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388180510l/40992._SX98_.jpg&#34; /&gt;&lt;/a&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/40992.Shadow_Claw&#34;&gt;Shadow &amp;amp; Claw&lt;/a&gt; by &lt;a href=&#34;https://www.goodreads.com/author/show/23069.Gene_Wolfe&#34;&gt;Gene Wolfe&lt;/a&gt;&lt;br/&gt;&#xA;My rating: &lt;a href=&#34;https://www.goodreads.com/review/show/7586468256&#34;&gt;4 of 5 stars&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&#xA;I feel that I can&amp;rsquo;t review this book truly without re-reading it. I can highly recommend it, and I really enjoyed the prose of Severian/Wolfe.&lt;br /&gt;&lt;br /&gt;Looking at the work as a whole, I cant be sure that I actually like it. The divide between how men and women behave in this story is jarring. There is an argument to be made that this is just how Severian interprets the world (and he is not exactly the pinnacle of morality). I can&amp;rsquo;t help but feel this aspect of the book is largely contamination from the time it was written, and Wolfes own background and viewpoints, rather than a deliberate storytelling device.&lt;br /&gt;&lt;br /&gt;I suspect that a lot of the themes underlying the book were lost on me as I do not have a religious background. I found myself confused on several occasions at what the meaning of certain imagery was, but I suspect it would add much more depth to more educated people.&lt;br /&gt;&lt;br /&gt;Regardless, I look forward to reading the rest of the series.&#xA;&lt;br/&gt;&lt;br/&gt;&#xA;&lt;a href=&#34;https://www.goodreads.com/review/list/189775425-obag&#34;&gt;View all my reviews&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

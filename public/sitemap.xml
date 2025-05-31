@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://obag.blog/</loc>
     <lastmod>2025-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rss/</loc>
+    <loc>https://obag.blog/rss/</loc>
     <lastmod>2025-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://obag.blog/about/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://obag.blog/search/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/a-wizard-of-earthsea/</loc>
+    <loc>https://obag.blog/posts/a-wizard-of-earthsea/</loc>
     <lastmod>2025-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/book-review/</loc>
+    <loc>https://obag.blog/tags/book-review/</loc>
     <lastmod>2025-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://obag.blog/posts/</loc>
     <lastmod>2025-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://obag.blog/tags/</loc>
     <lastmod>2025-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/shadow-and-claw/</loc>
+    <loc>https://obag.blog/posts/shadow-and-claw/</loc>
     <lastmod>2025-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://obag.blog/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/topics/</loc>
+    <loc>https://obag.blog/topics/</loc>
   </url>
 </urlset>
