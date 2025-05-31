@@ -18,6 +18,11 @@ name = 'About'
 pageRef = '/about.md'
 weight = 2
 
+[[menus.main]]
+name = 'RSS Feed'
+pageRef = '/RSS.md'
+weight = 3
+
 [taxonomies]
 tag = 'tags'
 topic = 'topics'

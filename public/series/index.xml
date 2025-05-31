@@ -6,6 +6,8 @@
     <description>Recent content in Series on obag</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <managingEditor>obag.blog@pm.me (obag)</managingEditor>
+    <webMaster>obag.blog@pm.me (obag)</webMaster>
     <atom:link href="https://obag.blog/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

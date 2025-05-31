@@ -3,12 +3,12 @@ title: About
 date: 2025-05-29
 indexable: false
 ---
-I used to have some friends who would try and invent slang. We had some terrible nicknames for each other, and I managed to score "Obag". I hated it. Several years later I decided I would start writing again, and adopted obag as my online alias.
+Some old friends of mine once gave me the nickname "O-Bag". I thought it was a terrible nickname and cringed every time I heard it.
 
-I created this blog to get over my fear of publishing my work. Some of what I write is actually very good, but I am still very hesitant to show people. A lot of what I write is very bad, but I feel it is important to huck it out there too.
+I have written a lot of terrible work throughout my life that makes me cringe every time I read it. I recently started to write again, and I figured that adopting the alias "obag" was fitting.
 
-If I can bring myself to post bad writing online under an alias, maybe I'll get to the point where I can publish my good writing under my real name.
+This blog is a space for me to post my writing, good or bad, so that I can get over my fear of having other people read my work. I figure that if I can publish my bad writing that makes me cringe under an alias, maybe one day I'll have the guts to publish my good writing that makes me proud under my real name.
 
-If anything I have written is worthy of conversation to you, please contact me at obag.blog@pm.me.
+I do not post content of any particular niche, on this blog you will find opinion pieces, creative writing, semi-academic essays, book reviews, recipes, partially true stories, and so on. I hope you find yourself some entertainment on this site.
 
-Thanks for your time, I appreciate it.
+If you want to chat about anything I have written here please flick me an email at obag.blog@pm.me. Please don't pull any punches if you want to criticize my writing... this is my space to improve as a writer not to stroke my fragile ego.

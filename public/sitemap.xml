@@ -3,7 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://obag.blog/</loc>
-    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://obag.blog/rss/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://obag.blog/about/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>

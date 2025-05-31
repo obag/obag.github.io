@@ -6,12 +6,14 @@
     <description>Recent content in Tags on obag</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <managingEditor>obag.blog@pm.me (obag)</managingEditor>
+    <webMaster>obag.blog@pm.me (obag)</webMaster>
     <lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://obag.blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Book-Review</title>
       <link>https://obag.blog/tags/book-review/</link>
-      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate><author>obag.blog@pm.me (obag)</author>
       <guid>https://obag.blog/tags/book-review/</guid>
       <description></description>
     </item>

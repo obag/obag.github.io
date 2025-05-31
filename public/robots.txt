@@ -1,5 +1,6 @@
 User-agent: *
 Sitemap: sitemap.xml
 
+Disallow: /rss/
 Disallow: /about/
 Disallow: /search/
