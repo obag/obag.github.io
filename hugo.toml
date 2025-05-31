@@ -53,7 +53,7 @@ series = 'series'
   countPageItems = 7 
  [params.rtwt.home]
   showBio = true
-  showAuthorImg = true 
+  showAuthorImg = false
   sidePaneTags = true
   showFeatured = true
   showRecent = true
