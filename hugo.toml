@@ -19,7 +19,7 @@ pageRef = '/about.md'
 weight = 2
 
 [[menus.main]]
-name = 'RSS Feed'
+name = 'RSS'
 pageRef = '/RSS.md'
 weight = 3
 

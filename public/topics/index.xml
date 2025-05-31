@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on obag</title>
-    <link>https://obag.blog/topics/</link>
+    <link>http://localhost:1313/topics/</link>
     <description>Recent content in Topics on obag</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>obag.blog@pm.me (obag)</managingEditor>
     <webMaster>obag.blog@pm.me (obag)</webMaster>
-    <atom:link href="https://obag.blog/topics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/topics/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
