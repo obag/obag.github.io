@@ -6,6 +6,7 @@ enableRobotsTXT = true
 
 [params.author]
 name = 'obag'
+email = 'obag.blog@pm.me'
 
 [[menus.main]]
 name = 'Posts'
