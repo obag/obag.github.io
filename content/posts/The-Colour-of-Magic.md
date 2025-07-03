@@ -6,7 +6,7 @@ author:
 tags:
   - book-review
 featured: false
-draft: true
+draft: false
 ---
 <a href="https://www.goodreads.com/book/show/601238.The_Colour_of_Magic" style="float: left; padding-right: 20px"><img border="0" alt="The Colour of Magic (Discworld, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692616592l/601238._SY160_.jpg" /></a><a href="https://www.goodreads.com/book/show/601238.The_Colour_of_Magic">The Colour of Magic</a> by <a href="https://www.goodreads.com/author/show/1654.Terry_Pratchett">Terry Pratchett</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/7702522816">3 of 5 stars</a><br /><br />
